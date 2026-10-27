@@ -1,8 +1,8 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Natty or Not: A Arte de Parecer Humano
 
 ## 📒 Descrição
 
-Breve descrição do seu projeto
+Este projeto explora como a inteligência artificial pode ser usada para criar conteúdo com uma sensação mais natural, emocional e autêntica. Através de experimentos com prompts, refinamento de ideias e revisão crítica, analisamos o que faz uma criação parecer genuína e como a IA pode ser uma ferramenta para ampliar a criatividade sem perder a essência humana.
 
 ## 🤖 Tecnologias Utilizadas
 
