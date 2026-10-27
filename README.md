@@ -1,54 +1,57 @@
 # Natty or Not: A Arte de Parecer Humano
 
-## 📒 Descrição
+Uma curadoria de experimentos criativos sobre como a inteligência artificial pode colaborar na construção de conteúdo com sensação mais humana, natural e emocional.
 
-Este projeto explora como a inteligência artificial pode ser usada para criar conteúdo com uma sensação mais natural, emocional e autêntica. Através de experimentos com prompts, refinamento de ideias e edição crítica, a proposta é analisar como uma IA pode ajudar a criar material que pareça mais humano e envolvente.
+## 📌 Visão Geral
+
+Este projeto explora o limite entre automação e autenticidade. A pergunta central é simples, mas profunda: até que ponto a IA pode ajudar a criar conteúdo que pareça genuíno, envolvente e memorável sem perder a essência da comunicação humana?
+
+A partir dessa reflexão, o trabalho reúne experimentos com prompts, refinamento de textos, edição crítica e adaptação para diferentes formatos: e-book, vídeo promocional e podcast.
 
 ## 🤖 Tecnologias Utilizadas
 
-Para o desenvolvimento deste projeto, foram exploradas ferramentas de IA generativa e softwares de apoio para criação, edição e organização de conteúdo:
-
-- ChatGPT: geração de ideias, rascunhos, prompts e melhoria de texto
-- Claude: revisão e refinamento de linguagem e clareza narrativa
-- Gemini: experimentação de diferentes abordagens de escrita e geração de conteúdo
-- Canva: criação visual para peças de comunicação e materiais promocionais
-- CapCut: edição de vídeo promocional
-- Audacity: edição e aprimoramento de áudio para o podcast
-- Google Docs: organização, revisão e documentação do processo
-
-Essas ferramentas foram utilizadas em conjunto para testar como a IA pode colaborar em diferentes formatos de produção criativa.
+- ChatGPT — geração de ideias, prompts, rascunhos e refinamento textual
+- Claude — revisão de clareza, ritmo e qualidade de linguagem
+- Gemini — experimentação de diferentes abordagens de criação
+- Canva — materiais visuais e peças de comunicação
+- CapCut — edição de vídeo promocional
+- Audacity — edição e tratamento de áudio
+- Google Docs — organização, documentação e revisão do processo
 
 ## 🧠 Habilidades Desenvolvidas
 
-Durante o desenvolvimento deste projeto, foram praticadas e aprimoradas habilidades como:
+- Ideação criativa com suporte de IA
+- Refinamento de prompts para melhorar qualidade e coerência
+- Avaliação crítica de saídas geradas por IA
+- Organização e estruturação de narrativas
+- Desenvolvimento de tom e estilo mais naturais e autênticos
+- Revisão editorial com foco em clareza e emoção
+- Adaptação de conteúdo para múltiplos formatos
 
-- Uso de IA generativa para ideação e criação de conteúdo
-- Refinamento de prompts para melhorar a qualidade e a coerência dos resultados
-- Avaliação crítica das saídas geradas por IA
-- Organização e estruturação de ideias em um fluxo de trabalho criativo
-- Desenvolvimento de uma narrativa mais natural e autêntica
-- Revisão e edição para alinhar o conteúdo ao objetivo do projeto
+## 🛠️ Processo de Criação
 
-## 🧐 Processo de Criação
+A criação do projeto partiu da definição de um problema central: compreender como a inteligência artificial pode ser utilizada para produzir conteúdo com maior sensação de naturalidade, autenticidade e aproximação emocional. A partir dessa hipótese, foi realizado um processo iterativo de experimentação com prompts, ajustes de linguagem e refinamento da estrutura narrativa.
 
-A criação do projeto partiu da definição de um problema central: compreender como a inteligência artificial pode ser utilizada para produzir conteúdo com maior sensação de naturalidade, autenticidade e aproximação emocional. Para isso, foi realizado um processo iterativo de experimentação com prompts, ajustes de linguagem e refinamento de estrutura narrativa.
+Cada versão gerada pela IA foi avaliada criticamente com foco em coerência, clareza, fluidez, intenção comunicativa e capacidade de gerar conexão com o público. Esse ciclo de produção e revisão foi essencial para reduzir sinais de artificialidade e fortalecer a sensação de autenticidade do material.
 
-Em cada etapa, os materiais gerados pela IA foram avaliados de forma crítica, observando aspectos como coerência, clareza, fluidez, intenção comunicativa e capacidade de gerar conexão com o público. A partir dessa avaliação, foram aplicados refinamentos para melhorar a qualidade das saídas e reduzir sinais de artificialidade.
-
-Além disso, a revisão humana desempenhou papel central no processo, garantindo que o conteúdo final não fosse apenas funcional, mas também emocionalmente envolvente e alinhado ao objetivo comunicativo do projeto. Essa etapa foi fundamental para consolidar a proposta híbrida do trabalho, que combina e-book, vídeo promocional e podcast como formas complementares de expressão.
+A revisão humana teve papel central no processo. Mesmo com o apoio das ferramentas de IA, foi necessário editar, ajustar e reescrever trechos para garantir que o conteúdo final fosse não apenas funcional, mas também emocionalmente envolvente e consistente com a proposta criativa do projeto.
 
 ## 🚀 Resultados
 
-Abaixo estão os principais produtos desenvolvidos neste projeto híbrido:
+O projeto foi pensado como uma experiência híbrida, desenvolvendo conteúdos em diferentes formatos que dialogam entre si:
 
 - E-book: [Em breve](#)
 - Vídeo promocional: [Em breve](#)
 - Podcast: [Em breve](#)
 
-Esses links serão preenchidos com os materiais finais após a produção e publicação das versões definitivas.
+Esses materiais representam a curadoria final do processo criativo e serão publicados conforme estiverem disponíveis.
 
-## 💭 Reflexão (Opcional)
+## 💭 Reflexão
 
-Um dos maiores desafios deste projeto foi perceber que "natty" não é apenas uma questão de linguagem mais simples ou informal, mas de uma sensação de autenticidade. A inteligência artificial consegue gerar textos com boa estrutura, ritmo e clareza, mas ainda exige revisão humana para que o conteúdo tenha personalidade, emoção e profundidade.
+Um dos maiores desafios deste projeto foi perceber que “natty” não é apenas uma questão de linguagem mais simples ou informal. Trata-se, sobretudo, de uma sensação de autenticidade. A inteligência artificial consegue gerar textos com boa estrutura, ritmo e clareza, mas ainda exige revisão humana para que o conteúdo conserve personalidade, emoção e profundidade.
 
-Essa experiência mostrou que o papel da IA não é substituir a criatividade humana, mas ampliá-la. O trabalho consiste em orientar, avaliar e ajustar as respostas para que elas possam dialogar de forma mais natural com o público. Em outras palavras, o desafio não está em tornar a IA mais humana, mas em usar a IA de forma crítica e consciente para criar algo que conserve a essência da comunicação humana.
+Essa experiência reforçou uma ideia central: a IA não substitui a criatividade humana, ela a amplia. O trabalho real está em orientar, avaliar e ajustar as respostas para que a tecnologia funcione como uma ferramenta de colaboração — e não como um substituto da sensibilidade, do contexto e da intenção criativa.
+
+---
+
+Este projeto faz parte de uma curadoria exploratória sobre criatividade, linguagem e inteligência artificial, buscando entender como ferramentas generativas podem ser usadas de forma crítica, consciente e artisticamente relevante.
