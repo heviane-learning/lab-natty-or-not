@@ -1,4 +1,6 @@
-# Resposta para refinamento
+# Engenheiro de Prompts
+
+## Resposta para refinamento da a solicitação inicial
 
 Como engenheiro de prompts, analisei o seu texto. No geral, o seu prompt original já é **muito bom** porque contextualiza bem o cenário (o lab da DIO), define o escopo (projeto híbrido: e-book + capa + avatar) e traz uma divisão inicial de tarefas.
 No entanto, para extrair o máximo de uma IA (como GPT-4o ou Claude 3.5 Sonnet) ao iniciar um projeto assistido, podemos aplicar técnicas modernas de estruturação de prompts: **Definição de Persona, Clareza de Contexto, Restrições e Formato de Saída Estruturado**, além de corrigir um pequeno erro de digitação (a "Tarefa 2" aparece repetida).
