@@ -5,16 +5,16 @@ No entanto, para extrair o máximo de uma IA (como GPT-4o ou Claude 3.5 Sonnet) 
 
 ---
 
-## Pontos
+## Pontos Fortes
 
-* **Pontos Fortes:**
-  * Excelente contexto (links dos repositórios original e do fork).
-  * Escopo criativo claro (projeto híbrido ambicioso e alinhado com o desafio "Natty or Not").
+* Excelente contexto (links dos repositórios original e do fork).
+* Escopo criativo claro (projeto híbrido ambicioso e alinhado com o desafio "Natty or Not").
+ 
+## Oportunidades de Melhoria
 
-* **Oportunidades de Melhoria:**
-  * **Falta de Persona:** A IA não sabe exatamente *quem* ela deve ser (ex: um mentor técnico, um co-piloto criativo, um especialista em marketing de conteúdo).
-  * **Erro de numeração:** A Tarefa 2 está duplicada.
-  * **Falta de instrução de formato (Output):** Não especifica como você quer que a IA te entregue essa ajuda (ex: em blocos de código Markdown, por etapas interativas, etc.).
+* **Falta de Persona:** A IA não sabe exatamente *quem* ela deve ser (ex: um mentor técnico, um co-piloto criativo, um especialista em marketing de conteúdo).
+* **Erro de numeração:** A Tarefa 2 está duplicada.
+* **Falta de instrução de formato (Output):** Não especifica como você quer que a IA te entregue essa ajuda (ex: em blocos de código Markdown, por etapas interativas, etc.).
 
 ---
 
