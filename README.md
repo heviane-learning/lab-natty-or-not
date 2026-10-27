@@ -21,7 +21,11 @@ Durante o desenvolvimento deste projeto, foram praticadas e aprimoradas habilida
 
 ## 🧐 Processo de Criação
 
-Descreva como você criou o conteúdo
+A criação do projeto partiu da definição de um problema central: compreender como a inteligência artificial pode ser utilizada para produzir conteúdo com maior sensação de naturalidade, autenticidade e aproximação emocional. Para isso, foi realizado um processo iterativo de experimentação com prompts, ajustes de linguagem e refinamento de estrutura narrativa.
+
+Em cada etapa, os materiais gerados pela IA foram avaliados de forma crítica, observando aspectos como coerência, clareza, fluidez, intenção comunicativa e capacidade de gerar conexão com o público. A partir dessa avaliação, foram aplicados refinamentos para melhorar a qualidade das saídas e reduzir sinais de artificialidade.
+
+Além disso, a revisão humana desempenhou papel central no processo, garantindo que o conteúdo final não fosse apenas funcional, mas também emocionalmente envolvente e alinhado ao objetivo comunicativo do projeto. Essa etapa foi fundamental para consolidar a proposta híbrida do trabalho, que combina e-book, vídeo promocional e podcast como formas complementares de expressão.
 
 ## 🚀 Resultados
 
