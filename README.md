@@ -2,7 +2,7 @@
 
 ## 📒 Descrição
 
-Este projeto explora como a inteligência artificial pode ser usada para criar conteúdo com uma sensação mais natural, emocional e autêntica. Através de experimentos com prompts, refinamento de ideias e revisão crítica, analisamos o que faz uma criação parecer genuína e como a IA pode ser uma ferramenta para ampliar a criatividade sem perder a essência humana.
+Este projeto explora como a inteligência artificial pode ser usada para criar conteúdo com uma sensação mais natural, emocional e autêntica. Através de experimentos com prompts, refinamento de ideias e edição crítica, a proposta é analisar como uma IA pode ajudar a criar material que pareça mais humano e envolvente.
 
 ## 🤖 Tecnologias Utilizadas
 
@@ -25,7 +25,13 @@ Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
 
-Apresente os resultados do seu projeto
+Abaixo estão os principais produtos desenvolvidos neste projeto híbrido:
+
+- E-book: [Em breve](#)
+- Vídeo promocional: [Em breve](#)
+- Podcast: [Em breve](#)
+
+Esses links serão preenchidos com os materiais finais após a produção e publicação das versões definitivas.
 
 ## 💭 Reflexão (Opcional)
 
