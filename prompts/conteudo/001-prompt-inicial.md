@@ -1,1 +1,12 @@
-# Prompt inicial para definição do conteúdo
+# Prompt inicial para ideação do conteúdo
+
+## Data
+[...]
+
+## Objetivo
+
+[...]
+
+## Prompt
+
+[...]
