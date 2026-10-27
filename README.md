@@ -6,7 +6,17 @@ Este projeto explora como a inteligência artificial pode ser usada para criar c
 
 ## 🤖 Tecnologias Utilizadas
 
-Liste as IAs Generativas e outras ferramentas usadas
+Para o desenvolvimento deste projeto, foram exploradas ferramentas de IA generativa e softwares de apoio para criação, edição e organização de conteúdo:
+
+- ChatGPT: geração de ideias, rascunhos, prompts e melhoria de texto
+- Claude: revisão e refinamento de linguagem e clareza narrativa
+- Gemini: experimentação de diferentes abordagens de escrita e geração de conteúdo
+- Canva: criação visual para peças de comunicação e materiais promocionais
+- CapCut: edição de vídeo promocional
+- Audacity: edição e aprimoramento de áudio para o podcast
+- Google Docs: organização, revisão e documentação do processo
+
+Essas ferramentas foram utilizadas em conjunto para testar como a IA pode colaborar em diferentes formatos de produção criativa.
 
 ## 🧠 Habilidades Desenvolvidas
 
@@ -39,4 +49,6 @@ Esses links serão preenchidos com os materiais finais após a produção e publ
 
 ## 💭 Reflexão (Opcional)
 
-Comente sobre o desafio de criar algo 'natty' com IA.
+Um dos maiores desafios deste projeto foi perceber que "natty" não é apenas uma questão de linguagem mais simples ou informal, mas de uma sensação de autenticidade. A inteligência artificial consegue gerar textos com boa estrutura, ritmo e clareza, mas ainda exige revisão humana para que o conteúdo tenha personalidade, emoção e profundidade.
+
+Essa experiência mostrou que o papel da IA não é substituir a criatividade humana, mas ampliá-la. O trabalho consiste em orientar, avaliar e ajustar as respostas para que elas possam dialogar de forma mais natural com o público. Em outras palavras, o desafio não está em tornar a IA mais humana, mas em usar a IA de forma crítica e consciente para criar algo que conserve a essência da comunicação humana.
