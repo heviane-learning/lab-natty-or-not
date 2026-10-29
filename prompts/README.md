@@ -79,11 +79,7 @@ Indique se o prompt foi aprovado, adaptado ou descartado.
 
 ## Histórico atual
 
-### 001-solicitacao-inicial.md
-Arquivo com a primeira solicitação, representando a intenção inicial do projeto e o contexto geral.
-
-### 001-resposta.md
-Resposta da IA ao prompt inicial, com análise crítica, sugestões e proposta de refinamento.
+Colocar aqui link para os arquivos da pasta "prompts".
 
 ## Boas práticas para manter este log
 
