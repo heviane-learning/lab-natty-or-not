@@ -1,6 +1,8 @@
 # Natty or Not: A Arte de Parecer Humano
 
-Uma laboratório de experimentos criativos sobre como a inteligência artificial pode colaborar na construção de conteúdo com sensação mais humana, natural e emocional.
+> 📌 **Origem do Projeto:** Este laboratório foi desenvolvido a partir do desafio original *[Natural ou Fake Natty](https://github.com/digitalinnovationone/lab-natty-or-not)* da [Digital Innovation One (DIO)](https://www.dio.me/), evoluído com foco em engenharia de software assistida por IA e boas práticas no uso de copilotos e agentes autônomos.
+
+Um laboratório de experimentos criativos sobre como a inteligência artificial pode colaborar na construção de conteúdo com sensação mais humana, natural e emocional.
 
 ## 📌 Visão Geral
 
@@ -13,30 +15,30 @@ A partir dessa reflexão, o trabalho reúne experimentos com prompts, refinament
 ### Para organização e geração do conteúdo
 
 - [Gemini Notebook](https://notebook.google.com/): Para organização de ideias, fontes e prompts. Também para registro de experimentos e prototipagem criativa.
-- [Antigravity](https://antigravity.google/): Integrado ao VSCode  e auxiliar nas demanadas do repositório.
-- [GitHub Copilot](https://github.com/copilot): Integrado ao VSCode e ao Github para auxiliar nas demanadas do repositório.
+- [Antigravity](https://antigravity.google/): Assistente e agente autônomo integrado ao VS Code para acelerar o desenvolvimento e pair programming.
+- [GitHub Copilot](https://github.com/copilot): Integrado ao VS Code para auxílio na escrita e refatoração de código e documentação.
 - [Gemini](https://gemini.google.com/app): Para geração de ideias, rascunhos, prompts e refinamento.
-- [ChatGPT](https://chatgpt.com/)
-- [Claude](https://claude.ai/)
-- [Microsoft Copilot](https://copilot.com/chat)
+- [ChatGPT](https://chatgpt.com/): Para ideação, geração multimodal e exploração de abordagens alternativas.
+- [Claude](https://claude.ai/): Para raciocínio aprofundado, revisão crítica de clareza e ritmo de linguagem.
+- [Microsoft Copilot](https://copilot.com/chat): Para consultas contextuais e validação de informações.
 
-### Para formtação, edição e visualização
+### Para formatação, edição e visualização
 
-- Canva — materiais visuais e peças de comunicação
-- CapCut — edição de vídeo promocional
-- Audacity — edição e tratamento de áudio
+- [Canva](https://www.canva.com/): Materiais visuais e peças de comunicação
+- [CapCut](https://www.capcut.com/): Edição e montagem do vídeo promocional
+- [Audacity](https://www.audacityteam.org/): Edição e tratamento acústico de áudio
 
 > Meu notebook público **[Project: natty-or-not-lab](https://notebook.google.com/notebook/346205c8-d30f-4f12-8092-de71b7856727)** para consulta.
 
 ## 🧠 Habilidades Desenvolvidas
 
-- Ideação criativa com suporte de IA
-- Refinamento de prompts para melhorar qualidade e coerência
-- Avaliação crítica de saídas geradas por IA
-- Organização e estruturação de narrativas
-- Desenvolvimento de tom e estilo mais naturais e autênticos
-- Revisão editorial com foco em clareza e emoção
-- Adaptação de conteúdo para múltiplos formatos
+- Ideação criativa e técnica com suporte de IA
+- Refinamento iterativo de prompts para maximizar qualidade e coerência
+- Avaliação crítica de saídas geradas por IA (mitigação de alucinações e débitos sintéticos)
+- Organização e estruturação de narrativas técnicas e envolventes
+- Desenvolvimento de tom e estilo autênticos ("Natty")
+- Revisão editorial e arquitetural com abordagem Human-in-the-Loop
+- Adaptação de conteúdo para múltiplos formatos (multimodal)
 
 ## 🛠️ Processo de Criação
 
