@@ -1,6 +1,6 @@
 # Natty or Not: A Arte de Parecer Humano
 
-Uma curadoria de experimentos criativos sobre como a inteligência artificial pode colaborar na construção de conteúdo com sensação mais humana, natural e emocional.
+Uma laboratório de experimentos criativos sobre como a inteligência artificial pode colaborar na construção de conteúdo com sensação mais humana, natural e emocional.
 
 ## 📌 Visão Geral
 
@@ -10,14 +10,23 @@ A partir dessa reflexão, o trabalho reúne experimentos com prompts, refinament
 
 ## 🤖 Tecnologias Utilizadas
 
-- ChatGPT — geração de ideias, prompts, rascunhos e refinamento textual
-- Claude — revisão de clareza, ritmo e qualidade de linguagem
-- Gemini — experimentação de diferentes abordagens de criação
-- Gemini Notebook — organização de ideias, registro de experimentos e prototipagem criativa
+### Para organização e geração do conteúdo
+
+- [Gemini Notebook](https://notebook.google.com/): Para organização de ideias, fontes e prompts. Também para registro de experimentos e prototipagem criativa.
+- [Antigravity](https://antigravity.google/): Integrado ao VSCode  e auxiliar nas demanadas do repositório.
+- [GitHub Copilot](https://github.com/copilot): Integrado ao VSCode e ao Github para auxiliar nas demanadas do repositório.
+- [Gemini](https://gemini.google.com/app): Para geração de ideias, rascunhos, prompts e refinamento.
+- [ChatGPT](https://chatgpt.com/)
+- [Claude](https://claude.ai/)
+- [Microsoft Copilot](https://copilot.com/chat)
+
+### Para formtação, edição e visualização
+
 - Canva — materiais visuais e peças de comunicação
 - CapCut — edição de vídeo promocional
 - Audacity — edição e tratamento de áudio
-- Google Docs — organização, documentação e revisão do processo
+
+> Meu notebook público **[Project: natty-or-not-lab](https://notebook.google.com/notebook/346205c8-d30f-4f12-8092-de71b7856727)** para consulta.
 
 ## 🧠 Habilidades Desenvolvidas
 
@@ -31,7 +40,7 @@ A partir dessa reflexão, o trabalho reúne experimentos com prompts, refinament
 
 ## 🛠️ Processo de Criação
 
-A criação do projeto partiu da definição de um problema central: compreender como a inteligência artificial pode ser utilizada para produzir conteúdo com maior sensação de naturalidade, autenticidade e conexão emocional.
+A criação do projeto partiu da definição de um problema central: **compreender como a inteligência artificial pode ser utilizada para produzir conteúdo com maior sensação de naturalidade, autenticidade e conexão emocional**.
 
 Cada versão gerada pela IA foi avaliada criticamente com foco em coerência, clareza, fluidez, intenção comunicativa e capacidade de gerar conexão com o público. Esse ciclo de produção e revisão foi essencial para aproximar o texto de uma linguagem mais humana.
 
@@ -48,6 +57,8 @@ O projeto foi pensado como uma experiência híbrida, desenvolvendo conteúdos e
 Esses materiais representam a curadoria final do processo criativo e serão publicados conforme estiverem disponíveis.
 
 ## 💭 Reflexão
+
+> Revisar após a conclusão do projeto!
 
 Um dos maiores desafios deste projeto foi perceber que “natty” não é apenas uma questão de linguagem mais simples ou informal. Trata-se, sobretudo, de uma sensação de autenticidade. A inteligência artificial pode ajudar a produzir textos mais naturais, mas a qualidade real vem da delicadeza da revisão humana, da intenção comunicativa e da capacidade de criar uma presença mais humana no texto.
 
