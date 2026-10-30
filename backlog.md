@@ -20,8 +20,8 @@ Acompanhamento de tarefas de alto nível, catálogo e evolução do laboratório
 ## ✅ Infraestrutura e Governança Concluídas
 
 - [x] Fork do repositório template da DIO e configuração inicial do GitHub.
-- [x] Padronização do `README.md` principal com créditos da DIO e descrição das ferramentas.
+- [x] Padronização do `README.md` principal com créditos da DIO.
 - [x] Implementação da metodologia Spec-Driven Development (SDD) e governança com `AGENTS.md`.
 - [x] Reorganização do repositório para arquitetura Monorepo Multiprojeto (`projetos/` e `docs/`).
-- [x] Criação de templates globais (`docs/template-log-prompt.md` e `docs/template-spec.md`).
+- [x] Criação de templates globais (`docs/template-prompt.md` e `docs/template-spec.md`).
 - [x] Configuração do `.gitignore` para proteção de anotações e scratchpad (`_notes.md`).

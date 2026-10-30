@@ -74,7 +74,7 @@ O repositório é organizado de forma modular, garantindo alto isolamento de con
 | `docs/` | Governança global, templates e exemplos. | Contém templates padrão (`docs/template-*.md`), logs de arquitetura (`docs/prompts/`) e referências. |
 | `projetos/<id-nome>/` | **Pasta autocontida do projeto/tema.** | Cada projeto isola seus próprios entregáveis, specs, prompts e backlog. |
 | `projetos/<nome>/specs/` | Especificações formais dos entregáveis (SDD). | Criar specs numeradas (`SPEC-001-...md`) antes da geração. |
-| `projetos/<nome>/prompts/` | Histórico unificado de experimentos de prompts. | Seguir o template de `docs/template-log-prompt.md`. |
+| `projetos/<nome>/prompts/` | Histórico unificado de experimentos de prompts. | Seguir o template de `docs/template-prompt.md`. |
 | `projetos/<nome>/entregaveis/` | Artefatos finais produzidos (E-book, vídeos, etc.). | Publicar apenas conteúdo validado pelos critérios da Spec. |
 | `projetos/<nome>/backlog.md` | Gestão de tarefas específica do projeto. | Manter sincronizado com o status real dos artefatos do projeto. |
 

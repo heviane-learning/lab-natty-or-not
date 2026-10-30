@@ -1,4 +1,4 @@
-# Repositório preparado para assitência por IA
+# Adoção de Governança ao Repositório
 
 Sobre a adoção do **`AGENTS.md`** e o **Spec-Driven Development (SDD)** neste repositório: **Não apenas é relevante, como é o maior sinal de maturidade que você pode colocar neste repositório.**
 

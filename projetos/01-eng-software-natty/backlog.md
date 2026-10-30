@@ -10,7 +10,7 @@ Acompanhamento de tarefas, prioridades e evolução do projeto `projetos/01-eng-
 - [x] Definição do tema central: **"Engenharia de Software Natty: Boas Práticas, Limites e Antipatterns com IA"** (`prompts/002-definicao-do-tema.md`).
 - [x] Seleção preliminar da stack de ferramentas multimodais.
 - [x] Criação da especificação formal do E-book (`specs/SPEC-001-ebook.md`).
-- [ ] **Experimento 003:** Prompt e geração do Capítulo 1 (*O Efeito "Fake Natty" no Código*).
+- [x] **Experimento 003:** Prompt e geração do Capítulo 1 (*O Efeito "Fake Natty" no Código*) (`prompts/003-capitulo-1-fake-natty.md` e `entregaveis/ebook/capitulo-1.md`).
 - [ ] **Experimento 004:** Prompt e geração do Capítulo 2 (*Antipatterns no Desenvolvimento Assistido por IA*).
 - [ ] **Experimento 005:** Prompt e geração do Capítulo 3 (*Engenharia de Software Natty: Boas Práticas*).
 - [ ] **Experimento 006:** Prompt e geração do Capítulo 4 (*O Desenvolvedor Centauro e Checklist de PR*).
