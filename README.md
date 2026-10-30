@@ -1,4 +1,4 @@
-# Natty or Not: A Arte de Parecer Humano
+# 🧪 Natty or Not: A Arte de Parecer Humano
 
 > 📌 **Origem do Projeto:** Este laboratório foi desenvolvido a partir do desafio original *[Natural ou Fake Natty](https://github.com/digitalinnovationone/lab-natty-or-not)* da [Digital Innovation One (DIO)](https://www.dio.me/), evoluído com foco em engenharia de software assistida por IA e boas práticas no uso de copilotos e agentes autônomos.
 
