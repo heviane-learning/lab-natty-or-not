@@ -60,3 +60,4 @@ Adotar a **Alternativa C**: Incorporar o desenvolvimento assistido por IA como p
 
 - **Positivas:** Aceleração do ciclo de vida de desenvolvimento, aumento da cobertura de testes com foco em invariantes reais, documentação rica gerada em paralelo e consolidação do papel do *Desenvolvedor Centauro*.
 - **Riscos Monitorados:** Atenção constante à assimetria cognitiva em code review, aplicando sempre o *Checklist de Revisão para PRs com IA* (definido no projeto 01).
+

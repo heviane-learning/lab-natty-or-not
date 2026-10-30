@@ -23,7 +23,8 @@ Acompanhamento de tarefas de alto nível, catálogo e evolução do laboratório
 - [x] Padronização do `README.md` principal com créditos da DIO.
 - [x] Implementação da metodologia Spec-Driven Development (SDD) e governança com `AGENTS.md`.
 - [x] Reorganização do repositório para arquitetura Monorepo Multiprojeto (`projetos/` e `docs/`).
-- [x] Criação de templates globais (`docs/template-prompt.md` e `docs/template-spec.md`).
+- [x] Criação de templates globais (`docs/template-prompt.md`, `docs/template-spec.md`, `docs/template-backlog-*.md`).
 - [x] Configuração do `.gitignore` para proteção de anotações e scratchpad (`_notes.md`).
 - [x] Registro da decisão arquitetural sobre governança ágil e portfólio (`docs/adr/ADR-001-governanca-agil-portfolio-projects.md`).
 - [x] Registro da decisão arquitetural sobre desenvolvimento assistido por IA e SDD (`docs/adr/ADR-002-desenvolvimento-assistido-por-ia.md`).
+- [x] Registro da decisão arquitetural sobre padronização de templates Docs-as-Code (`docs/adr/ADR-003-padronizacao-artefatos-templates.md`).

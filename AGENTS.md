@@ -71,7 +71,7 @@ O repositório é organizado de forma modular, garantindo alto isolamento de con
 | `README.md` | Portal / Catálogo Geral do Laboratório. | Apresenta o ecossistema e lista os projetos em andamento/concluídos. |
 | `backlog.md` | Roadmap macro do laboratório na raiz. | Acompanhamento de alto nível de novos projetos. |
 | `_notes.md` | Anotações rápidas e scratchpad da autora. | **Ignorado no Git** via `.gitignore`. Agentes nunca devem versionar este arquivo. |
-| `docs/` | Governança global, templates e exemplos. | Contém templates padrão (`docs/template-*.md`), logs de arquitetura (`docs/prompts/`), decisões técnicas formais (`docs/adr/`) e referências. |
+| `docs/` | Governança global, templates e exemplos. | Contém templates padrão (`template-spec.md`, `template-prompt.md`, `template-backlog-*.md`), logs de arquitetura (`docs/prompts/`), decisões técnicas formais (`docs/adr/`) e referências. |
 | `projetos/<id-nome>/` | **Pasta autocontida do projeto/tema.** | Cada projeto isola seus próprios entregáveis, specs, prompts e backlog. |
 | `projetos/<nome>/specs/` | Especificações formais dos entregáveis (SDD). | Criar specs numeradas (`SPEC-001-...md`) antes da geração. |
 | `projetos/<nome>/prompts/` | Histórico unificado de experimentos de prompts. | Seguir o template de `docs/template-prompt.md`. |
