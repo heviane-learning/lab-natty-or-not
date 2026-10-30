@@ -35,3 +35,4 @@ Professional technical book cover titled "ENGENHARIA DE SOFTWARE NATTY" in bold,
 
 - **Decisão:** Prompts aprovados para teste nas ferramentas de geração visual da autora.
 - **Próxima Ação:** Gerar a imagem escolhida e salvar o ativo final no diretório `projetos/01-eng-software-natty/entregaveis/ebook/capa.png` (ou `.jpg`).
+
