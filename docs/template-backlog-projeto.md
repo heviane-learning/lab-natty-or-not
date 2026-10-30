@@ -42,3 +42,4 @@ Tarefas com etapas intermediárias ativas:
 
 ### 📦 [Entregável 2]
 - [x] [Item concluído] ([link-entregavel](entregaveis/...) \| [Prompt](prompts/...)).
+

@@ -45,3 +45,4 @@ Adotar a **Alternativa B**: Estabelecer um **Catálogo Central de Templates** em
 
 - **Positivas:** Inicialização instantânea de novos projetos com zero atrito, previsibilidade para agentes de IA e experiência de leitura executiva para tech leads.
 - **Governança:** Qualquer agente atuando no repositório deve consultar obrigatoriamente a pasta `docs/` antes de criar novos arquivos estruturais (conforme registrado no `AGENTS.md`).
+

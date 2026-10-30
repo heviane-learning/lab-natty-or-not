@@ -23,3 +23,4 @@ Acompanhamento de tarefas de alto nível, catálogo de projetos e evolução glo
 - [x] Criação das diretrizes operacionais de governança (`AGENTS.md`).
 - [x] Implementação da metodologia Spec-Driven Development (SDD) e templates reutilizáveis em `docs/`.
 - [x] Registro das decisões arquiteturais em `docs/adr/`.
+
