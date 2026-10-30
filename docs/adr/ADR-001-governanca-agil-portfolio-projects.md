@@ -55,3 +55,4 @@ Adotar a **Alternativa B**: Centralizar a gestão de tarefas e iniciativas da or
 
 - **Positivas:** Redução de fricção de contexto, foco no fechamento de ciclos de entrega (*Stop Starting, Start Finishing*), rastreabilidade de ponta a ponta e padrão de engenharia corporativo.
 - **Riscos Mitigados:** Acúmulo de débitos técnicos invisíveis e abandono de iniciativas por dispersão de atenção.
+

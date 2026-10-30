@@ -26,3 +26,4 @@ Acompanhamento de tarefas de alto nível, catálogo e evolução do laboratório
 - [x] Criação de templates globais (`docs/template-prompt.md` e `docs/template-spec.md`).
 - [x] Configuração do `.gitignore` para proteção de anotações e scratchpad (`_notes.md`).
 - [x] Registro da decisão arquitetural sobre governança ágil e portfólio (`docs/adr/ADR-001-governanca-agil-portfolio-projects.md`).
+- [x] Registro da decisão arquitetural sobre desenvolvimento assistido por IA e SDD (`docs/adr/ADR-002-desenvolvimento-assistido-por-ia.md`).
