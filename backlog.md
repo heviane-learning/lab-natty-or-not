@@ -25,3 +25,4 @@ Acompanhamento de tarefas de alto nível, catálogo e evolução do laboratório
 - [x] Reorganização do repositório para arquitetura Monorepo Multiprojeto (`projetos/` e `docs/`).
 - [x] Criação de templates globais (`docs/template-prompt.md` e `docs/template-spec.md`).
 - [x] Configuração do `.gitignore` para proteção de anotações e scratchpad (`_notes.md`).
+- [x] Registro da decisão arquitetural sobre governança ágil e portfólio (`docs/adr/ADR-001-governanca-agil-portfolio-projects.md`).
