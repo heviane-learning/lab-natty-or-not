@@ -13,9 +13,9 @@ Acompanhamento de tarefas, prioridades e evolução do projeto `projetos/01-eng-
 - [x] **Experimento 003:** Prompt e geração do Capítulo 1 (*O Efeito "Fake Natty" no Código*) (`prompts/003-capitulo-1-fake-natty.md` e `entregaveis/ebook/capitulo-1.md`).
 - [x] **Experimento 004:** Prompt e geração do Capítulo 2 (*Antipatterns no Desenvolvimento Assistido por IA*) (`prompts/004-capitulo-2-antipatterns.md` e `entregaveis/ebook/capitulo-2.md`).
 - [x] **Experimento 005:** Prompt e geração do Capítulo 3 (*Engenharia de Software Natty: Boas Práticas*) (`prompts/005-capitulo-3-boas-praticas.md` e `entregaveis/ebook/capitulo-3.md`).
-- [ ] **Experimento 006:** Prompt e geração do Capítulo 4 (*O Desenvolvedor Centauro e Checklist de PR*).
-- [ ] **Experimento 007:** Geração do prompt e imagem da capa (Midjourney / Ideogram).
-- [ ] Consolidação final do E-book em `entregaveis/ebook/` e atualização dos links no `README.md`.
+- [x] **Experimento 006:** Prompt e geração do Capítulo 4 (*O Desenvolvedor Centauro e Checklist de PR*) (`prompts/006-capitulo-4-desenvolvedor-centauro.md` e `entregaveis/ebook/capitulo-4.md`).
+- [ ] **Experimento 007:** Geração do prompt calibrado e criação da imagem da capa (Midjourney / Ideogram).
+- [ ] Consolidação final do E-book em `entregaveis/ebook/` (compilação completa) e atualização dos links no `README.md`.
 
 ---
 
