@@ -1,21 +1,9 @@
-# 🔬 Log de Experimentos de Prompt (Prompt Engineering)
+# 🔬 TEMPLATE de Log de Experimentos de Prompt (Prompt Engineering)
 
-Este diretório registra o ciclo de iteração, testes e refinamento de prompts utilizados ao longo do projeto.
+Cada projeto conterá um diretório chamado `prompts`, que conterá um arquivo para cada registro
+com o ciclo de iteração, testes e refinamento de prompts utilizados ao longo do projeto.
 
 Para manter o rigor de engenharia de software e garantir a rastreabilidade técnica, utilizamos o modelo **unificado por experimento**: cada arquivo `.md` reúne o prompt enviado, a resposta gerada pela IA e a análise crítica humana (*Human-in-the-Loop*).
-
----
-
-## 📂 Estrutura de Arquivos
-
-```text
-prompts/
-├── README.md                          # Este guia e convenções
-├── backlog.md                         # Gestão de tarefas do laboratório
-├── 001-concepcao-do-projeto.md        # Concepção, escopo e escolha de personas
-├── 002-definicao-tema-e-sumario.md    # [Próximo] Tema do e-book e sumário técnico
-└── ...
-```
 
 ---
 
