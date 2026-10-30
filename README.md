@@ -1,71 +1,66 @@
-# 🧪 Natty or Not: A Arte de Parecer Humano
+# 🧪 Natty or Not Lab — Engenharia de Software Assistida por IA
 
-> 📌 **Origem do Projeto:** Este laboratório foi desenvolvido a partir do desafio original *[Natural ou Fake Natty](https://github.com/digitalinnovationone/lab-natty-or-not)* da [Digital Innovation One (DIO)](https://www.dio.me/), evoluído com foco em engenharia de software assistida por IA e boas práticas no uso de copilotos e agentes autônomos.
+> 📌 **Origem do Projeto:** Este laboratório monorepo foi criado a partir do desafio original *[Natural ou Fake Natty](https://github.com/digitalinnovationone/lab-natty-or-not)* da [Digital Innovation One (DIO)](https://www.dio.me/), evoluído para demonstrar práticas avançadas de engenharia de software assistida por inteligência artificial, governança de agentes autônomos e desenvolvimento orientado a especificações (SDD).
 
-Um laboratório de experimentos criativos sobre como a inteligência artificial pode colaborar na construção de conteúdo com sensação mais humana, natural e emocional.
-
-## 📌 Visão Geral
-
-Este projeto explora o limite entre automação e autenticidade. A pergunta central é simples, mas profunda: até que ponto a IA pode ajudar a criar conteúdo que pareça genuíno, envolvente e memorável para o público.
-
-A partir dessa reflexão, o trabalho reúne experimentos com prompts, refinamento de textos, edição crítica e adaptação para diferentes formatos: e-book, vídeo promocional e podcast.
-
-## 🤖 Tecnologias Utilizadas
-
-### Para organização e geração do conteúdo
-
-- [Gemini Notebook](https://notebook.google.com/): Para organização de ideias, fontes e prompts. Também para registro de experimentos e prototipagem criativa.
-- [Antigravity](https://antigravity.google/): Assistente e agente autônomo integrado ao VS Code para acelerar o desenvolvimento e pair programming.
-- [GitHub Copilot](https://github.com/copilot): Integrado ao VS Code para auxílio na escrita e refatoração de código e documentação.
-- [Gemini](https://gemini.google.com/app): Para geração de ideias, rascunhos, prompts e refinamento.
-- [ChatGPT](https://chatgpt.com/): Para ideação, geração multimodal e exploração de abordagens alternativas.
-- [Claude](https://claude.ai/): Para raciocínio aprofundado, revisão crítica de clareza e ritmo de linguagem.
-- [Microsoft Copilot](https://copilot.com/chat): Para consultas contextuais e validação de informações.
-
-### Para formatação, edição e visualização
-
-- [Canva](https://www.canva.com/): Materiais visuais e peças de comunicação
-- [CapCut](https://www.capcut.com/): Edição e montagem do vídeo promocional
-- [Audacity](https://www.audacityteam.org/): Edição e tratamento acústico de áudio
-
-> Meu notebook público **[Project: natty-or-not-lab](https://notebook.google.com/notebook/346205c8-d30f-4f12-8092-de71b7856727)** para consulta.
-
-## 🧠 Habilidades Desenvolvidas
-
-- Ideação criativa e técnica com suporte de IA
-- Refinamento iterativo de prompts para maximizar qualidade e coerência
-- Avaliação crítica de saídas geradas por IA (mitigação de alucinações e débitos sintéticos)
-- Organização e estruturação de narrativas técnicas e envolventes
-- Desenvolvimento de tom e estilo autênticos ("Natty")
-- Revisão editorial e arquitetural com abordagem Human-in-the-Loop
-- Adaptação de conteúdo para múltiplos formatos (multimodal)
-
-## 🛠️ Processo de Criação
-
-A criação do projeto partiu da definição de um problema central: **compreender como a inteligência artificial pode ser utilizada para produzir conteúdo com maior sensação de naturalidade, autenticidade e conexão emocional**.
-
-Cada versão gerada pela IA foi avaliada criticamente com foco em coerência, clareza, fluidez, intenção comunicativa e capacidade de gerar conexão com o público. Esse ciclo de produção e revisão foi essencial para aproximar o texto de uma linguagem mais humana.
-
-A revisão humana teve papel central no processo. Mesmo com o apoio das ferramentas de IA, foi necessário editar, ajustar e reescrever trechos para garantir que o conteúdo final fosse não apenas funcional, mas também expressivo e genuíno.
-
-## 🚀 Resultados
-
-O projeto foi pensado como uma experiência híbrida, desenvolvendo conteúdos em diferentes formatos que dialogam entre si:
-
-- E-book: [Em breve](#)
-- Vídeo promocional: [Em breve](#)
-- Podcast: [Em breve](#)
-
-Esses materiais representam a curadoria final do processo criativo e serão publicados conforme estiverem disponíveis.
-
-## 💭 Reflexão
-
-> Revisar após a conclusão do projeto!
-
-Um dos maiores desafios deste projeto foi perceber que “natty” não é apenas uma questão de linguagem mais simples ou informal. Trata-se, sobretudo, de uma sensação de autenticidade. A inteligência artificial pode ajudar a produzir textos mais naturais, mas a qualidade real vem da delicadeza da revisão humana, da intenção comunicativa e da capacidade de criar uma presença mais humana no texto.
-
-Essa experiência reforçou uma ideia central: a IA não substitui a criatividade humana, ela a amplia. O trabalho real está em orientar, avaliar e ajustar as respostas para que a tecnologia funcione como ferramenta de expressão, e não como substituta do talento criativo.
+Um ecossistema técnico focado na fronteira entre a automação generativa acelerada e a manutenção do rigor arquitetural, segurança e autenticidade ("Natty") do software em produção.
 
 ---
 
-Este projeto faz parte de uma curadoria exploratória sobre criatividade, linguagem e inteligência artificial, buscando entender como ferramentas generativas podem ser usadas de forma crítica, consciente e artística.
+## 🏛️ Metodologia & Governança do Laboratório
+
+Diferente de abordagens baseadas em tentativa e erro (*vibe prompting*), este laboratório opera sob princípios formais de engenharia de software:
+
+- **Spec-Driven Development (SDD):** Nenhum artefato é sintetizado sem um contrato prévio formalizado em `specs/` com critérios de aceite objetivos (*Definition of Done*).
+- **Governança de Agentes ([AGENTS.md](AGENTS.md)):** Regras operacionais estritas que delimitam o escopo de atuação de copilotos e agentes, exigindo aprovação prévia humana e verificação contínua da documentação.
+- **Soberania Técnica (*Human-in-the-Loop*):** A IA atua como força de trabalho executiva, mas a arquitetura, curadoria crítica e responsabilidade do aceite final de código são estritamente humanas.
+- **Rastreabilidade Técnica:** Cada iteração, prompt calibrado e avaliação humana é registrado em logs unificados na pasta `prompts/` de cada projeto.
+
+---
+
+## 📂 Catálogo de Projetos do Laboratório
+
+| ID / Projeto | Tema Central | Formatos | Status | Entregáveis & Documentação |
+| :---: | :--- | :---: | :---: | :--- |
+| **01** | **[Engenharia de Software Natty](projetos/01-eng-software-natty/)**<br>*Boas Práticas, Limites e Antipatterns com IA* | E-book, Vídeo, Podcast | 🟡 Em andamento | 📖 [E-book Completo](projetos/01-eng-software-natty/entregaveis/ebook/ebook-completo.md)<br>📐 [SPEC-001 (E-book)](projetos/01-eng-software-natty/specs/SPEC-001-ebook.md)<br>🔬 [Logs de Prompts](projetos/01-eng-software-natty/prompts/) |
+| **02** | **RAG em Produção**<br>*Arquitetura, Chunking e Mitigação de Alucinações* | E-book, Infográfico | ⚪ *Planejado* | [Acompanhar no Backlog](backlog.md) |
+| **03** | **Prompt Engineering para Testes**<br>*Test-Driven Prompting e Cobertura de Mutação* | Guia, Código, Lab | ⚪ *Planejado* | [Acompanhar no Backlog](backlog.md) |
+
+---
+
+## 🤖 Stack de Tecnologias Multimodais
+
+- **Engenharia de Prompt & Raciocínio Lógico:** Gemini 1.5 Pro, Claude 3.5 Sonnet, GPT-4o.
+- **Assistência in-Editor & Pair Programming:** [Antigravity](https://antigravity.google/), GitHub Copilot.
+- **Pesquisa e Prototipagem Centralizada:** [Gemini Notebook do Projeto](https://notebook.google.com/notebook/346205c8-d30f-4f12-8092-de71b7856727).
+- **Geração Visual & Identidade:** Midjourney v6.1, Ideogram v2, Canva.
+- **Síntese de Vídeo e Áudio:** HeyGen / D-ID, ElevenLabs, CapCut, Audacity.
+
+---
+
+## 🧭 Estrutura do Monorepo
+
+```text
+natty-or-not-lab/
+├── AGENTS.md                  # System prompt do repositório e regras de governança para IAs
+├── README.md                  # Este portal executivo e catálogo de projetos
+├── backlog.md                 # Roadmap macro de novos desafios
+│
+├── docs/                      # Governança global, templates e decisões arquiteturais
+│   ├── template-spec.md       # Template de especificação formal (SDD)
+│   ├── template-prompt.md     # Template unificado de log de prompt
+│   └── prompts/               # Logs das decisões de arquitetura do laboratório
+│
+└── projetos/                  # Desafios modulares autocontidos
+    └── 01-eng-software-natty/ # Projeto ativo: Engenharia de Software Natty
+        ├── specs/             # Especificações técnicas formais dos entregáveis
+        ├── prompts/           # Histórico calibrado de prompts do projeto
+        ├── entregaveis/       # Artefatos prontos (ebook/, video/, podcast/)
+        └── backlog.md         # Gestão de tarefas específica do projeto
+```
+
+---
+
+## 👤 Autora & Licença
+
+- **Autora:** Heviane ([GitHub Profile](https://github.com/heviane-learning))
+- **Licença:** Distribuído sob a licença MIT. Consulte [LICENSE](LICENSE) para mais informações.
